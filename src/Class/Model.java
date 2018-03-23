@@ -30,7 +30,7 @@ public class Model
 	
 	public String[][] getAllPatientsAsArray()
 	{
-		String patients[][] = {{"Krystian", "Wasik"}, {"Ola", "Brogowska"}};
+		String patients[][] = {{"Ola", "Brogowska"}};
 		
 		return patients;
 	}
